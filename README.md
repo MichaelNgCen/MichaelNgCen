@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelngcen" alt="michaelngcen" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/HonoredBoldAustralianfurseal-size_restricted.gif">
+
 - 🔭 I’m currently working on [TWICIFY](https://github.com/MichaelNgCen/Twicify)
 
 - 👯 I’m currently collaborating on [TASK NODES](https://github.com/anthony-chao/Branches)
