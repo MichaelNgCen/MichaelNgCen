@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate Software Developer from New York</h3>
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelngcen&label=Profile%20views&color=0e75b6&style=flat" alt="michaelngcen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelngcen" alt="michaelngcen" /></a> </p>
