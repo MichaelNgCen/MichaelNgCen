@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20D760&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Michael+Ng+Cen" /> </p>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20D760&width=435&lines=A+passionate+Software+Developer" /> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelngcen&label=Profile%20views&color=0e75b6&style=flat" alt="michaelngcen" /> </p>
 
 <img align="right" alt="Coding" width="300" src="https://spotify-recently-played-readme.vercel.app/api?user=1259777486">
