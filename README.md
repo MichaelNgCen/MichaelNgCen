@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [TWICIFY](https://github.com/MichaelNgCen/Twicify)
 
-- 👯 I’m currently collaborating on [TASK NODES](https://github.com/anthony-chao/Branches)
+- 👯 I’m currently collaborating on [BRANCHES](https://github.com/anthony-chao/Branches)
 
 - 📫 How to reach me **Michaelngcen@yahoo.com**
 
