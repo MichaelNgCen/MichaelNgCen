@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelngcen&label=Profile%20views&color=0e75b6&style=flat" alt="michaelngcen" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://spotify-recently-played-readme.vercel.app/api?user=1259777486">
+<img align="right" alt="Coding" width="300" src="https://spotify-recently-played-readme.vercel.app/api?user=1259777486">
 
 - 🔭 I’m currently working on [TWICIFY](https://github.com/MichaelNgCen/Twicify)
 
