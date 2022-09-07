@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
+
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate Software Developer from New York</h3>
 
@@ -28,4 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelngcen&theme=chartreuse-dark&" alt="michaelngcen" /></p>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
