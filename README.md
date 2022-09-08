@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Michaelngcen@yahoo.com**
 
-- ⚡ Fun fact **I enjoy collecting photocards **
+- ⚡ Fun fact I enjoy collecting photocards
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
