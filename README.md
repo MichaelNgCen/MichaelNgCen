@@ -7,10 +7,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://spotify-recently-played-readme.vercel.app/api?user=1259777486">
 
-- 🔭 I’m currently working on [TWICIFY](https://github.com/MichaelNgCen/Twicify)
-
-- 👯 I’m currently collaborating on [TASK-IT](https://github.com/anthony-chao/Branches)
-
 - 📫 How to reach me **Michaelngcen@yahoo.com**
 
 - ⚡ Fun fact **I enjoy collecting photocards**
