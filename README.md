@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelngcen&label=Profile%20views&color=0e75b6&style=flat" alt="michaelngcen" /> </p>
 
+  <img align="center" src="https://profile-counter.glitch.me/insolitum/count.svg" />
+
 <img align="right" alt="Coding" width="300" src="https://spotify-recently-played-readme.vercel.app/api?user=1259777486">
 
 - 📫 How to reach me **Michaelngcen@yahoo.com**
