@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://spotify-recently-played-readme.vercel.app/api?user=1259777486">
 
-- 📫 How to reach me **Michaelngcen@yahoo.com**
+- 📫 Reach me **Michaelngcen.com**
 
 - ⚡ Fun fact **I enjoy collecting photocards**
 
