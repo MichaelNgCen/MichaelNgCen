@@ -6,7 +6,7 @@
 
 - 📫 Reach me **Michaelngcen.com**
 
-- ⚡ Fun fact **I enjoy collecting photocards**
+- ⚡ Fun fact **I enjoy cubing (rubix cube)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
